@@ -1,0 +1,21 @@
+body {
+    background-color: floralwhite;
+}
+p {
+    background-color: lightpink;
+    font-family: "Comic Sans MS", serif;
+    display: inline-flex;
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 70px;
+    width: 200px;
+}
+h1 {
+    color: lightpink;
+    font-family: "Comic Sans MS", serif;
+    text-align: center;
+    font-size: 30px;
+
+}
